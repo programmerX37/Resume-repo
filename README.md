@@ -1,2 +1,4 @@
 # Resume-repo
-Basic Html Css Js
+Basic Webpage with Html, Css, Js.
+
+
